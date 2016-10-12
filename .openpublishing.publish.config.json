@@ -19,6 +19,11 @@
     }
   ],
   "notification_subscribers": [],
+  "Targets":{
+    "Pdf":{
+      "template_folder":"_themes.pdf"
+    }
+  },
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
@@ -27,6 +32,11 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root":"_themes.pdf",
+      "url":"https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch":"master"
     }
   ]
 }
