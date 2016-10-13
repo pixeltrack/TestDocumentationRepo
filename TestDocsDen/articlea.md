@@ -4,6 +4,9 @@ Sticky note ut Ut SpaceTeam lorem sint quantitative vs. qualitative cillum conve
 
 Actionable insight sit disrupt piverate in pariatur personas exercitation esse entrepreneur bootstrapping laboris user story. Aliquip ex big data food-truck velit sunt nostrud physical computing. Ad culpa elit actionable insight ad driven ut big data officia bootstrapping. Pivot elit sit dolor latte ea eu laboris. In unicorn ship it magna intuitive entrepreneur ex aute anim labore.
 
+> [!NOTE]
+> By default, any member can register an application. To learn how to restrict permissions for registering applications to specific members, see [How applications are added to Azure AD](active-directory-how-applications-are-added.md#who-has-permission-to-add-applications-to-my-azure-ad-instance).
+
 Pariatur cupidatat aute quantitative vs. qualitative disrupt pariatur aliqua non nostrud. Qui grok proident est est SpaceTeam experiential nulla paradigm esse mollit aliqua. Experiential in eu labore iterate adipisicing culpa venture capital enim ea. Non ea big data commodo consectetur ex earned media human-centered design aute sint dolor quantitative vs. qualitative ipsum.
 
 Dolor ship it adipisicing cillum Excepteur fund non laboru engaging nulla. Unicorn parallax incididunt dolore workflow user centered design veniam physical computing agile user story lorem responsive food-truck. Intuitive occaecat consequat nulla waterfall is so 2000 and late pair programming Excepteur do quantitative vs. qualitative workflow.
