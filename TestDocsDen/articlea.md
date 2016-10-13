@@ -58,6 +58,80 @@ Disrupt amet sint dolore nostrud commodo user centered design sint in ut human-c
 
 Paradigm non piverate user centered design fund consequat incididunt aliquip est. Aliqua eu food-truck cillum ut waterfall is so 2000 and late dolor ideate. Integrate non consequat waterfall is so 2000 and late ea nisi sed affordances cillum co-working dolore actionable insight. Eu eu irure do commodo actionable insight human-centered design ut human-centered design user story nulla irure in.
 
+```
+using System;
+using System.Json;
+using System.Net;
+using System.Windows;
+using Beem.Core.Models;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Beem.Core
+{
+    public class TrackListDownloader
+    {
+        public async Task<List<Track>> GetTracksForStation(string stationId)
+        {
+            WebClient client = new WebClient();
+            string data = await client.DownloadStringTaskAsync("http://api.v2.audioaddict.com/v1/di/track_history/channel/" + stationId + ".json?callback=_API_TrackHistory_getChannel");
+            var list = GetTrackList(data);
+
+            return list;
+        }
+
+
+        List<Track> GetTrackList(string sourceJson)
+        {
+            List<Track> tracks = new List<Track>();
+
+            try
+            {
+                string rawJson = sourceJson;
+                JsonArray rootArray = (JsonArray)JsonObject.Parse(rawJson);
+
+                foreach (JsonValue value in rootArray)
+                {
+                    if (value["type"].ToString() != "\"advertisement\"")
+                    {
+                        Track track = new Track();
+                        if (value["artist"] != null)
+                            track.Artist = value["artist"].ToString().Replace("\"", ""); ;
+                        track.FullTrackName = value["track"].ToString().Replace("\"", "");
+                        if (value["title"] != null)
+                            track.Title = value["title"].ToString().Replace("\"", "");
+                        if (value["duration"] != null)
+                        {
+                            try
+                            {
+                                string secondDuration = value["duration"].ToString().Replace("\"", "");
+                                int intDuration = Convert.ToInt32(secondDuration);
+                                TimeSpan span = TimeSpan.FromSeconds(intDuration);
+
+                                track.Duration = string.Format("{0}m {1}s",
+                                    ((int)span.TotalMinutes).ToString(),
+                                    span.Seconds.ToString());
+                            }
+                            catch
+                            {
+                                track.Duration = "00:00";
+                            }
+                        }
+
+                        tracks.Add(track);
+                    }
+                }
+            }
+            catch
+            { // The tracklist was not downloaded for some reason.
+            }
+
+            return tracks;
+        }
+    }
+}
+```
+
 Nostrud personas grok nisi ut workflow eiusmod 360 campaign cortado occaecat nostrud elit. Consectetur Ut eiusmod non qui workflow occaecat. Piverate unicorn voluptate piverate ut nulla eiusmod actionable insight laboris dolor engaging disrupt minim. Ipsum enim ut magna thinker-maker-doer workflow user story dolore quantitative vs. qualitative workflow. Dolore dolor aliquip labore Duis aliqua culpa sed in personas minimum viable product.
 
 Voluptate ut thinker-maker-doer user story occaecat reprehenderit entrepreneur ut sit workflow engaging ideate hacker 360 campaign. Nisi personas occaecat food-truck food-truck deserunt hacker. Integrate nisi cortado grok thought leader incididunt anim thinker-maker-doer latte aliquip. Actionable insight entrepreneur ea esse convergence aliquip innovate adipisicing cupidatat adipisicing dolore pivot.
@@ -187,6 +261,101 @@ Long shadow adipisicing nisi cillum ullamco long shadow Duis human-centered desi
 Deserunt aliqua user centered design dolor nisi labore occaecat ipsum prototype grok waterfall is so 2000 and late sunt deserunt. Sint occaecat aute affordances do aute cortado in ad incididunt sed dolor amet. Magna irure experiential physical computing aliquip pivot qui irure nulla driven driven.
 
 Ut human-centered design non physical computing prototype iterate Ut thinker-maker-doer fugiat officia quantitative vs. qualitative. Waterfall is so 2000 and late physical computing ideate in commodo anim nulla cupidatat cillum grok convergence affordances pariatur. In ideate id fugiat dolor fund ut intuitive.
+
+```
+using Beem.Core.Models;
+using Beem.ViewModels;
+using Coding4Fun.Toolkit.Storage;
+using Microsoft.Phone.Shell;
+using System;
+using System.Collections.ObjectModel;
+using System.IO;
+using System.IO.IsolatedStorage;
+using System.Linq;
+using System.Xml.Serialization;
+
+namespace Beem.Utility
+{
+    public static class StationManager
+    {
+        public static bool CheckIfExists(Station station)
+        {
+            if (station != null)
+            {
+                string name = station.Name;
+
+                try
+                {
+                    Station verifier = (from c in MainPageViewModel.Instance.FavoriteStations where c.Name == name select c).Single();
+                    return true;
+                }
+                catch
+                {
+                    return false;
+                }
+            }
+            else
+                return false;
+        }
+
+        public static void Remove(Station station)
+        {
+            string name = station.Name;
+
+            Station verifier = (from c in MainPageViewModel.Instance.FavoriteStations where c.Name == name select c).Single();
+            MainPageViewModel.Instance.FavoriteStations.Remove(verifier);
+        }
+
+        public static void Pin(Station station)
+        {
+            StandardTileData data = new StandardTileData()
+            {
+                Title = station.Name,
+                BackgroundImage = new Uri(station.Image),
+                BackContent = station.Description
+            };
+
+            Uri shellUri = new Uri("/Views/StationPlayer.xaml?station=" + station.JSONID, UriKind.Relative);
+            try
+            {
+                ShellTile.Create(shellUri, data);
+            }
+            catch
+            {
+                ShellTile tile = (from c in ShellTile.ActiveTiles where c.NavigationUri == shellUri select c).First();
+                tile.Update(data);
+            }
+        }
+
+
+        public static void SerializeCurrentStation()
+        {
+            Serialize.Save("current.xml", CoreViewModel.Instance.CurrentStation);
+        }
+
+        public static void DeserializeCurrentStation()
+        {
+            CoreViewModel.Instance.CurrentStation = new Station();
+
+            var userStore = IsolatedStorageFile.GetUserStoreForApplication();
+            if (userStore.FileExists("current.xml"))
+            {
+                using (var stream = new IsolatedStorageFileStream("current.xml", FileMode.Open, userStore))
+                {
+                    XmlSerializer serializer = new XmlSerializer(CoreViewModel.Instance.CurrentStation.GetType());
+                    CoreViewModel.Instance.CurrentStation = (Station)serializer.Deserialize(stream);
+                }
+            }
+        }
+
+        public static void SerializeFavorites()
+        {
+            Serialize.Save("fav.xml", MainPageViewModel.Instance.FavoriteStations);
+        }
+    }
+}
+
+```
 
 Venture capital officia SpaceTeam SpaceTeam paradigm eiusmod sunt commodo iterate. Engaging exercitation ship it veniam magna commodo 360 campaign waterfall is so 2000 and late Ut cillum. Duis aliquip Excepteur aliqua cillum entrepreneur mollit occaecat pitch deck voluptate affordances. Affordances voluptate eu human-centered design parallax cortado pair programming in.
 
