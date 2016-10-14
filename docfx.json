@@ -1,16 +1,42 @@
-﻿{
+{
   "build": {
-    "resource":
-      [
-        {
-          "files": [
-            "images/**", 
-            "**/*.png",
-            "**/*.jpg",
-            "**/*.gif",
-            "**/*.svg"
-          ]
-        }
-      ]
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_themes/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "fileMetadata": {},
+    "template": [
+      "docs.html"
+    ],
+    "dest": "azure"
   }
 }
