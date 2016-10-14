@@ -11,7 +11,266 @@ Pariatur cupidatat aute quantitative vs. qualitative disrupt pariatur aliqua non
 
 Dolor ship it adipisicing cillum Excepteur fund non laboru engaging nulla. Unicorn parallax incididunt dolore workflow user centered design veniam physical computing agile user story lorem responsive food-truck. Intuitive occaecat consequat nulla waterfall is so 2000 and late pair programming Excepteur do quantitative vs. qualitative workflow.
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+DQoNCiAgPHRpdGxlPlNWRyBMb2dvPC90aXRsZT4NCg0KICA8YSB4bGluazpocmVmPSJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvIiB0YXJnZXQ9Il9wYXJlbnQiDQogICAgIHhsaW5rOnRpdGxlPSJXM0MgU1ZHIFdvcmtpbmcgR3JvdXAgaG9tZSBwYWdlIj4NCg0KICAgIDxyZWN0DQogICAgICAgIGlkPSJiYWNrZ3JvdW5kIg0KICAgICAgICBmaWxsPSIjRkY5OTAwIg0KICAgICAgICB3aWR0aD0iMTAwIg0KICAgICAgICBoZWlnaHQ9IjEwMCINCiAgICAgICAgcng9IjQiDQogICAgICAgIHJ5PSI0Ii8+DQoNCiAgICA8cmVjdA0KICAgICAgICBpZD0idG9wLWxlZnQiDQogICAgICAgIGZpbGw9IiNGRkIxM0IiDQogICAgICAgIHdpZHRoPSI1MCINCiAgICAgICAgaGVpZ2h0PSI1MCINCiAgICAgICAgcng9IjQiDQogICAgICAgIHJ5PSI0Ii8+DQoNCiAgICA8cmVjdA0KICAgICAgICBpZD0iYm90dG9tLXJpZ2h0Ig0KICAgICAgICB4PSI1MCINCiAgICAgICAgeT0iNTAiDQogICAgICAgIGZpbGw9IiNERTg1MDAiDQogICAgICAgIHdpZHRoPSI1MCINCiAgICAgICAgaGVpZ2h0PSI1MCINCiAgICAgICAgcng9IjQiDQogICAgICAgIHJ5PSI0Ii8+DQoNCiAgICA8ZyBpZD0iY2lyY2xlcyIgZmlsbD0iI0ZGOTkwMCI+DQogICAgICAgIDxjaXJjbGUNCiAgICAgICAgICAgIGlkPSJuIg0KICAgICAgICAgICAgY3g9IjUwIg0KICAgICAgICAgICAgY3k9IjE4LjQiDQogICAgICAgICAgICByPSIxOC40Ii8+DQoNCiAgICAgICAgPGNpcmNsZQ0KICAgICAgICAgICAgaWQ9Im5lIg0KICAgICAgICAgICAgY3g9IjcyLjQiDQogICAgICAgICAgICBjeT0iMjcuNiINCiAgICAgICAgICAgIHI9IjE4LjQiLz4NCg0KICAgICAgICA8Y2lyY2xlDQogICAgICAgICAgICBpZD0iZSINCiAgICAgICAgICAgIGN4PSI4MS42Ig0KICAgICAgICAgICAgY3k9IjUwIg0KICAgICAgICAgICAgcj0iMTguNCIvPg0KDQogICAgICAgIDxjaXJjbGUNCiAgICAgICAgICAgIGlkPSJzZSINCiAgICAgICAgICAgIGN4PSI3Mi40Ig0KICAgICAgICAgICAgY3k9IjcyLjQiDQogICAgICAgICAgICByPSIxOC40Ii8+DQoNCiAgICAgICAgPGNpcmNsZQ0KICAgICAgICAgICAgaWQ9InMiDQogICAgICAgICAgICBjeD0iNTAiDQogICAgICAgICAgICBjeT0iODEuNiINCiAgICAgICAgICAgIHI9IjE4LjQiLz4NCg0KICAgICAgICA8Y2lyY2xlDQogICAgICAgICAgICBpZD0ic3ciDQogICAgICAgICAgICBjeD0iMjcuNiINCiAgICAgICAgICAgIGN5PSI3Mi40Ig0KICAgICAgICAgICAgcj0iMTguNCIvPg0KDQogICAgICAgIDxjaXJjbGUNCiAgICAgICAgICAgIGlkPSJ3Ig0KICAgICAgICAgICAgY3g9IjE4LjQiDQogICAgICAgICAgICBjeT0iNTAiDQogICAgICAgICAgICByPSIxOC40Ii8+DQoNCiAgICAgICAgPGNpcmNsZQ0KICAgICAgICAgICAgaWQ9Im53Ig0KICAgICAgICAgICAgY3g9IjI3LjYiDQogICAgICAgICAgICBjeT0iMjcuNiINCiAgICAgICAgICAgIHI9IjE4LjQiLz4NCiAgICA8L2c+DQoNCiAgICA8ZyBpZD0ic3RhcnMiPg0KICAgICAgICA8cGF0aA0KICAgICAgICAgICAgaWQ9ImJsYWNrLXN0YXIiDQogICAgICAgICAgICBkPSJNICA2My4wODYsIDE4LjM4NQ0KICAgICAgICAgICAgICAgYyAgMC4wMDAsIC03LjIyNyAgLTUuODU5LC0xMy4wODYgLTEzLjEwMCwtMTMuMDg2DQogICAgICAgICAgICAgICBjIC03LjIzNSwgIDAuMDAwIC0xMy4wOTYsICA1Ljg1OSAtMTMuMDk2LCAxMy4wODYNCiAgICAgICAgICAgICAgIGMgLTUuMTAwLCAtNS4xMTAgLTEzLjM5NSwgLTUuMTEwIC0xOC40OTcsICAwLjAwMA0KICAgICAgICAgICAgICAgYyAtNS4xMTksICA1LjEyMCAgLTUuMTE5LCAxMy40MDggICAwLjAwMCwgMTguNTI0DQogICAgICAgICAgICAgICBjIC03LjIzNCwgIDAuMDAwIC0xMy4xMDMsICA1Ljg1OSAtMTMuMTAzLCAxMy4wODUNCiAgICAgICAgICAgICAgIGMgIDAuMDAwLCAgNy4yMzAgICA1Ljg3MCwgMTMuMDk4ICAxMy4xMDMsIDEzLjA5OA0KICAgICAgICAgICAgICAgYyAtNS4xMTksICA1LjExMCAgLTUuMTE5LCAxMy4zOTUgICAwLjAwMCwgMTguNTE1DQogICAgICAgICAgICAgICBjICA1LjEwMiwgIDUuMTA0ICAxMy4zOTcsICA1LjEwNCAgMTguNDk3LCAgMC4wMDANCiAgICAgICAgICAgICAgIGMgIDAuMDAwLCAgNy4yMjggICA1Ljg2MCwgMTMuMDgzICAxMy4wOTYsIDEzLjA4Mw0KICAgICAgICAgICAgICAgYyAgNy4yNDAsICAwLjAwMCAgMTMuMTAwLCAtNS44NTUgIDEzLjEwMCwtMTMuMDgzDQogICAgICAgICAgICAgICBjICA1LjExOCwgIDUuMTA0ICAxMy40MTYsICA1LjEwNCAgMTguNTEzLCAgMC4wMDANCiAgICAgICAgICAgICAgIGMgIDUuMTAxLCAtNS4xMjAgICA1LjEwMSwtMTMuNDEwICAgMC4wMDAsLTE4LjUxNQ0KICAgICAgICAgICAgICAgYyAgNy4yMTYsICAwLjAwMCAgMTMuMDgxLCAtNS44NjkgIDEzLjA4MSwtMTMuMDk4DQogICAgICAgICAgICAgICBjICAwLjAwMCwgLTcuMjI3ICAtNS44NjUsLTEzLjA4NSAtMTMuMDgxLC0xMy4wODUNCiAgICAgICAgICAgICAgIGMgIDUuMTAxLCAtNS4xMTkgICA1LjEwMSwtMTMuNDA2ICAgMC4wMDAsLTE4LjUyNA0KICAgICAgICAgICAgICAgQyA3Ni41MDIsIDEzLjI3NSAgNjguMjA2LCAxMy4yNzUgIDYzLjA4NiwgMTguMzg1IHoiLz4NCg0KICAgICAgICA8cGF0aA0KICAgICAgICAgICAgaWQ9IndoaXRlLXN0YXIiDQogICAgICAgICAgICBmaWxsPSIjRkZGRkZGIg0KICAgICAgICAgICAgZD0iTSA1NS4wMDMsIDIzLjQwNQ0KICAgICAgICAgICAgICAgdiAxNC40ODgNCiAgICAgICAgICAgICAgIEwgNjUuMjYwLCAyNy42NDANCiAgICAgICAgICAgICAgIGMgIDAuMDAwLCAtMS44MTIgIDAuNjkxLC0zLjYxOCAgIDIuMDY2LCAtNS4wMDUNCiAgICAgICAgICAgICAgIGMgIDIuNzgwLCAtMi43NzEgIDcuMjc1LC0yLjc3MSAgMTAuMDI0LCAgMC4wMDANCiAgICAgICAgICAgICAgIGMgIDIuNzcxLCAgMi43NjYgIDIuNzcxLCA3LjI1NSAgIDAuMDAwLCAxMC4wMjcNCiAgICAgICAgICAgICAgIGMgLTEuMzc3LCAgMS4zNzUgLTMuMTk1LCAyLjA3MiAgLTUuMDE1LCAgMi4wNzINCiAgICAgICAgICAgICAgIEwgNjIuMTAxLCA0NC45ODINCiAgICAgICAgICAgICAgIEggNzYuNTkwDQogICAgICAgICAgICAgICBjICAxLjI5MCwgLTEuMjgwICAzLjA1NCwtMi4wNzYgICA1LjAxMSwgLTIuMDc2DQogICAgICAgICAgICAgICBjICAzLjkwMCwgIDAuMDAwICA3LjA3OCwgMy4xNzkgICA3LjA3OCwgIDcuMDg3DQogICAgICAgICAgICAgICBjICAwLjAwMCwgIDMuOTA2IC0zLjE3OCwgNy4wODggIC03LjA3OCwgIDcuMDg4DQogICAgICAgICAgICAgICBjIC0xLjk1NywgIDAuMDAwIC0zLjcyMSwtMC43OTggIC01LjAxMSwgLTIuMDcyDQogICAgICAgICAgICAgICBIIDYyLjEwMA0KICAgICAgICAgICAgICAgbCAxMC4yMjksIDEwLjI0NA0KICAgICAgICAgICAgICAgYyAgMS44MjQsICAwLjAwMCAgMy42NDIsIDAuNjk0ICAgNS4wMTUsICAyLjA4Ng0KICAgICAgICAgICAgICAgYyAgMi43NzQsICAyLjc1OSAgMi43NzQsIDcuMjUwICAgMC4wMDAsIDEwLjAxMA0KICAgICAgICAgICAgICAgYyAtMi43NTAsICAyLjc3NCAtNy4yMzksIDIuNzc0IC0xMC4wMjUsICAwLjAwMA0KICAgICAgICAgICAgICAgYyAtMS4zNzIsIC0xLjM3MiAtMi4wNjQsLTMuMTkyICAtMi4wNjQsIC01LjAwMw0KICAgICAgICAgICAgICAgTCA1NS4wMDAsIDYyLjA5NA0KICAgICAgICAgICAgICAgdiAxNC40OTkNCiAgICAgICAgICAgICAgIGMgIDEuMjcxLCAgMS4yNzYgIDIuMDg0LCAzLjA1NCAgIDIuMDg0LCAgNS4wMTMNCiAgICAgICAgICAgICAgIGMgIDAuMDAwLCAgMy45MDYgLTMuMTc3LCA3LjA3NyAgLTcuMDk4LCAgNy4wNzcNCiAgICAgICAgICAgICAgIGMgLTMuOTE5LCAgMC4wMDAgLTcuMDk0LC0zLjE2NyAgLTcuMDk0LCAtNy4wNzcNCiAgICAgICAgICAgICAgIGMgIDAuMDAwLCAtMS45NTkgIDAuODExLC0zLjczMiAgIDIuMDgxLCAtNS4wMTMNCiAgICAgICAgICAgICAgIFYgNjIuMDk0DQogICAgICAgICAgICAgICBMIDM0LjczOCwgNzIuMzQ2DQogICAgICAgICAgICAgICBjICAwLjAwMCwgIDEuODEyIC0wLjcwNSwgMy42MjcgIC0yLjA4NCwgIDUuMDAzDQogICAgICAgICAgICAgICBjIC0yLjc2OSwgIDIuNzcyIC03LjI1MSwgMi43NzIgLTEwLjAyNCwgIDAuMDAwDQogICAgICAgICAgICAgICBjIC0yLjc3NSwgLTIuNzY0IC0yLjc3NSwtNy4yNTMgICAwLjAwMCwtMTAuMDEyDQogICAgICAgICAgICAgICBjICAxLjM3NywgLTEuMzkwICAzLjIxNCwtMi4wODYgICA1LjAxMiwgLTIuMDg2DQogICAgICAgICAgICAgICBsIDEwLjI1NywtMTAuMjQyDQogICAgICAgICAgICAgICBIIDIzLjQxNA0KICAgICAgICAgICAgICAgYyAtMS4yODksICAxLjI3NiAtMy4wNzIsIDIuMDcyICAtNS4wMTUsICAyLjA3Mg0KICAgICAgICAgICAgICAgYyAtMy45MTcsICAwLjAwMCAtNy4wOTYsLTMuMTgwICAtNy4wOTYsIC03LjA4OA0KICAgICAgICAgICAgICAgcyAgMy4xNzcsIC03LjA4NyAgNy4wOTYsLTcuMDg3DQogICAgICAgICAgICAgICBjICAxLjk0MCwgIDAuMDAwICAzLjcyNSwgMC43OTYgICA1LjAxNSwgIDIuMDc2DQogICAgICAgICAgICAgICBoIDE0LjQ4OA0KICAgICAgICAgICAgICAgTCAyNy42NDYsIDM0LjczNg0KICAgICAgICAgICAgICAgYyAtMS43OTcsICAwLjAwMCAtMy42MzIsLTAuNjk3ICAtNS4wMTIsIC0yLjA3MQ0KICAgICAgICAgICAgICAgYyAtMi43NzUsIC0yLjc3MiAtMi43NzUsLTcuMjYwICAgMC4wMDAsLTEwLjAyNw0KICAgICAgICAgICAgICAgYyAgMi43NzMsIC0yLjc3MSAgNy4yNTYsLTIuNzcxICAxMC4wMjcsICAwLjAwMA0KICAgICAgICAgICAgICAgYyAgMS4zNzUsICAxLjM4NiAgMi4wODMsIDMuMTk1ICAgMi4wODMsICA1LjAwNQ0KICAgICAgICAgICAgICAgbCAxMC4yMzUsIDEwLjI1Mg0KICAgICAgICAgICAgICAgViAyMy40MDcNCiAgICAgICAgICAgICAgIGMgLTEuMjcwLCAtMS4yODcgLTIuMDgyLC0zLjA1MyAgLTIuMDgyLCAtNS4wMjMNCiAgICAgICAgICAgICAgIGMgIDAuMDAwLCAtMy45MDggIDMuMTc1LC03LjA3OSAgIDcuMDk2LCAtNy4wNzkNCiAgICAgICAgICAgICAgIGMgIDMuOTE5LCAgMC4wMDAgIDcuMDk3LCAzLjE2OCAgIDcuMDk3LCAgNy4wNzkNCiAgICAgICAgICAgICAgIEMgNTcuMDg4LCAyMC4zNTYgNTYuMjc0LDIyLjExOSAgNTUuMDAzLCAyMy40MDUgeiIvPg0KICAgIDwvZz4NCg0KICAgIDxnIGlkPSJzdmctdGV4dGJveCI+DQogICAgICAgIDxwYXRoDQogICAgICAgICAgICBpZD0idGV4dC1iYWNrZHJvcCINCiAgICAgICAgICAgIGZpbGw9ImJsYWNrIg0KICAgICAgICAgICAgZD0iTSAgNS4zMCw1MC4wMA0KICAgICAgICAgICAgICAgSCA5NC42OA0KICAgICAgICAgICAgICAgViA5MC4wMA0KICAgICAgICAgICAgICAgUSA5NC42OCw5NS4wMCA4OS42OCw5NS4wMA0KICAgICAgICAgICAgICAgSCAxMC4zMA0KICAgICAgICAgICAgICAgUSAgNS4zMCw5NS4wMCAgNS4zMCw5MC4wMCBaIi8+DQoNCiAgICAgICAgPHBhdGggDQogICAgICAgICAgICBpZD0ic2hpbmUiDQogICAgICAgICAgICBmaWxsPSIjM0YzRjNGIg0KICAgICAgICAgICAgZD0iTSAgMTQuNjU3LDU0LjIxMQ0KICAgICAgICAgICAgICAgaCAgNzEuMzk0DQogICAgICAgICAgICAgICBjICAgMi45MDgsIDAuMDAwICAgNS4zMTIsIDIuMzg1ICAgNS4zMTIsIDUuMzE1DQogICAgICAgICAgICAgICB2ICAxNy45MTANCiAgICAgICAgICAgICAgIGMgLTI3LjU4NCwtMy40MDMgLTU0LjkyNiwtOC4xMjUgLTgyLjAxMSwtNy42ODMNCiAgICAgICAgICAgICAgIFYgIDU5LjUyNg0KICAgICAgICAgICAgICAgQyAgIDkuMzUzLDU2LjU5NiAgMTEuNzQzLDU0LjIxMSAgMTQuNjU3LDU0LjIxMQ0KICAgICAgICAgICAgICAgTCAgMTQuNjU3LDU0LjIxMSB6Ii8+DQoNCiAgICAgICAgPGcgaWQ9InN2Zy10ZXh0Ij4NCiAgICAgICAgICAgIDx0aXRsZT5TVkc8L3RpdGxlPg0KICAgICAgICAgICAgPHBhdGgNCiAgICAgICAgICAgICAgICBpZD0iUyINCiAgICAgICAgICAgICAgICBmaWxsPSIjRkZGRkZGIg0KICAgICAgICAgICAgICAgIHN0cm9rZT0iIzAwMDAwMCINCiAgICAgICAgICAgICAgICBzdHJva2Utd2lkdGg9IjAuNTAzNSINCiAgICAgICAgICAgICAgICBkPSJNIDE4LjMxMiw3Mi45MjcNCiAgICAgICAgICAgICAgICAgICBjIC0yLjEwMywtMi4xMDcgIC0zLjQwNywgLTUuMDI4ICAtMy40MDcsIC04LjI1Mw0KICAgICAgICAgICAgICAgICAgIGMgIDAuMDAwLC02LjQ0NSAgIDUuMjIzLC0xMS42NzIgIDExLjY2NiwtMTEuNjcyDQogICAgICAgICAgICAgICAgICAgYyAgNi40NDYsIDAuMDAwICAxMS42NjcsICA1LjIyNSAgMTEuNjY3LCAxMS42NzINCiAgICAgICAgICAgICAgICAgICBoIC02LjgzMg0KICAgICAgICAgICAgICAgICAgIGMgIDAuMDAwLC0yLjY3NCAgLTIuMTY4LCAtNC44MzcgIC00LjgzNSwgLTQuODM3DQogICAgICAgICAgICAgICAgICAgYyAtMi42NjMsIDAuMDAwICAtNC44MzgsICAyLjE2MyAgLTQuODM4LCAgNC44MzcNCiAgICAgICAgICAgICAgICAgICBjICAwLjAwMCwgMS4zMzggICAwLjU0OSwgIDIuNTM2ICAgMS40MTUsICAzLjQyMA0KICAgICAgICAgICAgICAgICAgIGwgIDAuMDAwLCAwLjAwMA0KICAgICAgICAgICAgICAgICAgIGMgIDAuODgzLCAwLjg3NCAgIDIuMTAxLCAgMS40MDUgICAzLjQyMywgIDEuNDA1DQogICAgICAgICAgICAgICAgICAgdiAgMC4wMTINCiAgICAgICAgICAgICAgICAgICBjICAzLjIzMiwgMC4wMDAgICA2LjE0NSwgIDEuMzA5ICAgOC4yNDMsICAzLjQxNg0KICAgICAgICAgICAgICAgICAgIGwgIDAuMDAwLCAwLjAwMA0KICAgICAgICAgICAgICAgICAgIGMgIDIuMTE4LCAyLjExMSAgIDMuNDI0LCAgNS4wMzQgICAzLjQyNCwgIDguMjQ4DQogICAgICAgICAgICAgICAgICAgYyAgMC4wMDAsIDYuNDU0ICAtNS4yMjEsIDExLjY4MCAtMTEuNjY3LCAxMS42ODANCiAgICAgICAgICAgICAgICAgICBjIC02LjQ0MiwgMC4wMDAgLTExLjY2NiwgLTUuMjIyIC0xMS42NjYsLTExLjY4MA0KICAgICAgICAgICAgICAgICAgIGggIDYuODI4DQogICAgICAgICAgICAgICAgICAgYyAgMC4wMDAsIDIuNjc5ICAgMi4xNzUsICA0LjgzNSAgIDQuODM4LCAgNC44MzUNCiAgICAgICAgICAgICAgICAgICBjICAyLjY2NywgMC4wMDAgICA0LjgzNSwgLTIuMTU2ICAgNC44MzUsIC00LjgzNQ0KICAgICAgICAgICAgICAgICAgIGMgIDAuMDAwLC0xLjMyOSAgLTAuNTQ1LCAtMi41MjcgIC0xLjQyOSwgLTMuNDA3DQogICAgICAgICAgICAgICAgICAgbCAgMC4wMDAsIDAuMDAwDQogICAgICAgICAgICAgICAgICAgYyAtMC44NjQsLTAuODgwICAtMi4wODIsIC0xLjQxOCAgLTMuNDA2LCAtMS40MTgNCiAgICAgICAgICAgICAgICAgICBsICAwLjAwMCwgMC4wMDANCiAgICAgICAgICAgICAgICAgICBDIDIzLjM0MSw3Ni4zNTAgIDIwLjQyOSwgNzUuMDM2ICAxOC4zMTIsIDcyLjkyNw0KICAgICAgICAgICAgICAgICAgIEwgMTguMzEyLDcyLjkyNw0KICAgICAgICAgICAgICAgICAgIEwgMTguMzEyLDcyLjkyNyB6Ii8+DQogICAgICAgICAgICA8cG9seWdvbg0KICAgICAgICAgICAgICAgIGlkPSJWIg0KICAgICAgICAgICAgICAgIGZpbGw9IiNGRkZGRkYiDQogICAgICAgICAgICAgICAgc3Ryb2tlPSIjMDAwMDAwIg0KICAgICAgICAgICAgICAgIHN0cm9rZS13aWR0aD0iMC41MDM1Ig0KICAgICAgICAgICAgICAgIHBvaW50cz0iNjEuNTg4LDUzLjAwNQ0KICAgICAgICAgICAgICAgICAgICAgICAgNTMuMzQ0LDkyLjg1NA0KICAgICAgICAgICAgICAgICAgICAgICAgNDYuNDk0LDkyLjg1NA0KICAgICAgICAgICAgICAgICAgICAgICAgMzguMjM2LDUzLjAwNQ0KICAgICAgICAgICAgICAgICAgICAgICAgNDUuMDgyLDUzLjAwNQ0KICAgICAgICAgICAgICAgICAgICAgICAgNDkuOTIwLDc2LjM0Mg0KICAgICAgICAgICAgICAgICAgICAgICAgNTQuNzU1LDUzLjAwNSIvPg0KDQogICAgICAgICA8cGF0aCANCiAgICAgICAgICAgIGlkPSJHIg0KICAgICAgICAgICAgZmlsbD0iI0ZGRkZGRiINCiAgICAgICAgICAgIHN0cm9rZT0iIzAwMDAwMCINCiAgICAgICAgICAgIHN0cm9rZS13aWR0aD0iMC41MDM1Ig0KICAgICAgICAgICAgZD0iTSA3My4yNTUsNjkuNTEzDQogICAgICAgICAgICAgICBoIDExLjY4Mw0KICAgICAgICAgICAgICAgdiAxMS42NjQNCiAgICAgICAgICAgICAgIGwgIDAuMDAwLCAwLjAwMA0KICAgICAgICAgICAgICAgYyAgMC4wMDAsIDYuNDUyICAtNS4yMjYsMTEuNjc4IC0xMS42NjksIDExLjY3OA0KICAgICAgICAgICAgICAgYyAtNi40NDEsIDAuMDAwIC0xMS42NjYsLTUuMjI2IC0xMS42NjYsLTExLjY3OA0KICAgICAgICAgICAgICAgbCAgMC4wMDAsIDAuMDAwDQogICAgICAgICAgICAgICBWIDY0LjY3Ng0KICAgICAgICAgICAgICAgaCAtMC4wMTcNCiAgICAgICAgICAgICAgIEMgNjEuNTg2LDU4LjIyOSAgNjYuODI3LDUzLjAwMCAgNzMuMjUzLCA1My4wMDANCiAgICAgICAgICAgICAgIGMgIDYuNDU5LCAwLjAwMCAgMTEuNjgzLCA1LjIyNSAgMTEuNjgzLCAxMS42NzYNCiAgICAgICAgICAgICAgIGggLTYuODQ5DQogICAgICAgICAgICAgICBjICAwLjAwMCwtMi42NzQgIC0yLjE1MiwtNC44MzcgIC00LjgzNCwgLTQuODM3DQogICAgICAgICAgICAgICBjIC0yLjY0NywgMC4wMDAgIC00LjgyMCwgMi4xNjMgIC00LjgyMCwgIDQuODM3DQogICAgICAgICAgICAgICB2IDE2LjUwMQ0KICAgICAgICAgICAgICAgbCAgMC4wMDAsIDAuMDAwDQogICAgICAgICAgICAgICBjICAwLjAwMCwgMi42NzUgICAyLjE3MywgNC44MzcgICA0LjgyMCwgIDQuODM3DQogICAgICAgICAgICAgICBjICAyLjY4MiwgMC4wMDAgICA0LjgzNCwtMi4xNjIgICA0LjgzNCwgLTQuODI3DQogICAgICAgICAgICAgICB2IC0wLjAxMg0KICAgICAgICAgICAgICAgdiAtNC44MjcNCiAgICAgICAgICAgICAgIGggLTQuODM0DQogICAgICAgICAgICAgICBMIDczLjI1NSw2OS41MTMNCiAgICAgICAgICAgICAgIEwgNzMuMjU1LDY5LjUxMyB6Ii8+DQogICAgICAgIDwvZz4NCiAgICA8L2c+DQogIDwvYT4NCjwvc3ZnPg0K"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="100px" viewBox="0 0 100 100">
+
+  <title>SVG Logo</title>
+
+  <a xlink:href="http://www.w3.org/Graphics/SVG/" target="_parent"
+     xlink:title="W3C SVG Working Group home page">
+
+    <rect
+        id="background"
+        fill="#FF9900"
+        width="100"
+        height="100"
+        rx="4"
+        ry="4"/>
+
+    <rect
+        id="top-left"
+        fill="#FFB13B"
+        width="50"
+        height="50"
+        rx="4"
+        ry="4"/>
+
+    <rect
+        id="bottom-right"
+        x="50"
+        y="50"
+        fill="#DE8500"
+        width="50"
+        height="50"
+        rx="4"
+        ry="4"/>
+
+    <g id="circles" fill="#FF9900">
+        <circle
+            id="n"
+            cx="50"
+            cy="18.4"
+            r="18.4"/>
+
+        <circle
+            id="ne"
+            cx="72.4"
+            cy="27.6"
+            r="18.4"/>
+
+        <circle
+            id="e"
+            cx="81.6"
+            cy="50"
+            r="18.4"/>
+
+        <circle
+            id="se"
+            cx="72.4"
+            cy="72.4"
+            r="18.4"/>
+
+        <circle
+            id="s"
+            cx="50"
+            cy="81.6"
+            r="18.4"/>
+
+        <circle
+            id="sw"
+            cx="27.6"
+            cy="72.4"
+            r="18.4"/>
+
+        <circle
+            id="w"
+            cx="18.4"
+            cy="50"
+            r="18.4"/>
+
+        <circle
+            id="nw"
+            cx="27.6"
+            cy="27.6"
+            r="18.4"/>
+    </g>
+
+    <g id="stars">
+        <path
+            id="black-star"
+            d="M  63.086, 18.385
+               c  0.000, -7.227  -5.859,-13.086 -13.100,-13.086
+               c -7.235,  0.000 -13.096,  5.859 -13.096, 13.086
+               c -5.100, -5.110 -13.395, -5.110 -18.497,  0.000
+               c -5.119,  5.120  -5.119, 13.408   0.000, 18.524
+               c -7.234,  0.000 -13.103,  5.859 -13.103, 13.085
+               c  0.000,  7.230   5.870, 13.098  13.103, 13.098
+               c -5.119,  5.110  -5.119, 13.395   0.000, 18.515
+               c  5.102,  5.104  13.397,  5.104  18.497,  0.000
+               c  0.000,  7.228   5.860, 13.083  13.096, 13.083
+               c  7.240,  0.000  13.100, -5.855  13.100,-13.083
+               c  5.118,  5.104  13.416,  5.104  18.513,  0.000
+               c  5.101, -5.120   5.101,-13.410   0.000,-18.515
+               c  7.216,  0.000  13.081, -5.869  13.081,-13.098
+               c  0.000, -7.227  -5.865,-13.085 -13.081,-13.085
+               c  5.101, -5.119   5.101,-13.406   0.000,-18.524
+               C 76.502, 13.275  68.206, 13.275  63.086, 18.385 z"/>
+
+        <path
+            id="white-star"
+            fill="#FFFFFF"
+            d="M 55.003, 23.405
+               v 14.488
+               L 65.260, 27.640
+               c  0.000, -1.812  0.691,-3.618   2.066, -5.005
+               c  2.780, -2.771  7.275,-2.771  10.024,  0.000
+               c  2.771,  2.766  2.771, 7.255   0.000, 10.027
+               c -1.377,  1.375 -3.195, 2.072  -5.015,  2.072
+               L 62.101, 44.982
+               H 76.590
+               c  1.290, -1.280  3.054,-2.076   5.011, -2.076
+               c  3.900,  0.000  7.078, 3.179   7.078,  7.087
+               c  0.000,  3.906 -3.178, 7.088  -7.078,  7.088
+               c -1.957,  0.000 -3.721,-0.798  -5.011, -2.072
+               H 62.100
+               l 10.229, 10.244
+               c  1.824,  0.000  3.642, 0.694   5.015,  2.086
+               c  2.774,  2.759  2.774, 7.250   0.000, 10.010
+               c -2.750,  2.774 -7.239, 2.774 -10.025,  0.000
+               c -1.372, -1.372 -2.064,-3.192  -2.064, -5.003
+               L 55.000, 62.094
+               v 14.499
+               c  1.271,  1.276  2.084, 3.054   2.084,  5.013
+               c  0.000,  3.906 -3.177, 7.077  -7.098,  7.077
+               c -3.919,  0.000 -7.094,-3.167  -7.094, -7.077
+               c  0.000, -1.959  0.811,-3.732   2.081, -5.013
+               V 62.094
+               L 34.738, 72.346
+               c  0.000,  1.812 -0.705, 3.627  -2.084,  5.003
+               c -2.769,  2.772 -7.251, 2.772 -10.024,  0.000
+               c -2.775, -2.764 -2.775,-7.253   0.000,-10.012
+               c  1.377, -1.390  3.214,-2.086   5.012, -2.086
+               l 10.257,-10.242
+               H 23.414
+               c -1.289,  1.276 -3.072, 2.072  -5.015,  2.072
+               c -3.917,  0.000 -7.096,-3.180  -7.096, -7.088
+               s  3.177, -7.087  7.096,-7.087
+               c  1.940,  0.000  3.725, 0.796   5.015,  2.076
+               h 14.488
+               L 27.646, 34.736
+               c -1.797,  0.000 -3.632,-0.697  -5.012, -2.071
+               c -2.775, -2.772 -2.775,-7.260   0.000,-10.027
+               c  2.773, -2.771  7.256,-2.771  10.027,  0.000
+               c  1.375,  1.386  2.083, 3.195   2.083,  5.005
+               l 10.235, 10.252
+               V 23.407
+               c -1.270, -1.287 -2.082,-3.053  -2.082, -5.023
+               c  0.000, -3.908  3.175,-7.079   7.096, -7.079
+               c  3.919,  0.000  7.097, 3.168   7.097,  7.079
+               C 57.088, 20.356 56.274,22.119  55.003, 23.405 z"/>
+    </g>
+
+    <g id="svg-textbox">
+        <path
+            id="text-backdrop"
+            fill="black"
+            d="M  5.30,50.00
+               H 94.68
+               V 90.00
+               Q 94.68,95.00 89.68,95.00
+               H 10.30
+               Q  5.30,95.00  5.30,90.00 Z"/>
+
+        <path
+            id="shine"
+            fill="#3F3F3F"
+            d="M  14.657,54.211
+               h  71.394
+               c   2.908, 0.000   5.312, 2.385   5.312, 5.315
+               v  17.910
+               c -27.584,-3.403 -54.926,-8.125 -82.011,-7.683
+               V  59.526
+               C   9.353,56.596  11.743,54.211  14.657,54.211
+               L  14.657,54.211 z"/>
+
+        <g id="svg-text">
+            <title>SVG</title>
+            <path
+                id="S"
+                fill="#FFFFFF"
+                stroke="#000000"
+                stroke-width="0.5035"
+                d="M 18.312,72.927
+                   c -2.103,-2.107  -3.407, -5.028  -3.407, -8.253
+                   c  0.000,-6.445   5.223,-11.672  11.666,-11.672
+                   c  6.446, 0.000  11.667,  5.225  11.667, 11.672
+                   h -6.832
+                   c  0.000,-2.674  -2.168, -4.837  -4.835, -4.837
+                   c -2.663, 0.000  -4.838,  2.163  -4.838,  4.837
+                   c  0.000, 1.338   0.549,  2.536   1.415,  3.420
+                   l  0.000, 0.000
+                   c  0.883, 0.874   2.101,  1.405   3.423,  1.405
+                   v  0.012
+                   c  3.232, 0.000   6.145,  1.309   8.243,  3.416
+                   l  0.000, 0.000
+                   c  2.118, 2.111   3.424,  5.034   3.424,  8.248
+                   c  0.000, 6.454  -5.221, 11.680 -11.667, 11.680
+                   c -6.442, 0.000 -11.666, -5.222 -11.666,-11.680
+                   h  6.828
+                   c  0.000, 2.679   2.175,  4.835   4.838,  4.835
+                   c  2.667, 0.000   4.835, -2.156   4.835, -4.835
+                   c  0.000,-1.329  -0.545, -2.527  -1.429, -3.407
+                   l  0.000, 0.000
+                   c -0.864,-0.880  -2.082, -1.418  -3.406, -1.418
+                   l  0.000, 0.000
+                   C 23.341,76.350  20.429, 75.036  18.312, 72.927
+                   L 18.312,72.927
+                   L 18.312,72.927 z"/>
+            <polygon
+                id="V"
+                fill="#FFFFFF"
+                stroke="#000000"
+                stroke-width="0.5035"
+                points="61.588,53.005
+                        53.344,92.854
+                        46.494,92.854
+                        38.236,53.005
+                        45.082,53.005
+                        49.920,76.342
+                        54.755,53.005"/>
+
+         <path
+            id="G"
+            fill="#FFFFFF"
+            stroke="#000000"
+            stroke-width="0.5035"
+            d="M 73.255,69.513
+               h 11.683
+               v 11.664
+               l  0.000, 0.000
+               c  0.000, 6.452  -5.226,11.678 -11.669, 11.678
+               c -6.441, 0.000 -11.666,-5.226 -11.666,-11.678
+               l  0.000, 0.000
+               V 64.676
+               h -0.017
+               C 61.586,58.229  66.827,53.000  73.253, 53.000
+               c  6.459, 0.000  11.683, 5.225  11.683, 11.676
+               h -6.849
+               c  0.000,-2.674  -2.152,-4.837  -4.834, -4.837
+               c -2.647, 0.000  -4.820, 2.163  -4.820,  4.837
+               v 16.501
+               l  0.000, 0.000
+               c  0.000, 2.675   2.173, 4.837   4.820,  4.837
+               c  2.682, 0.000   4.834,-2.162   4.834, -4.827
+               v -0.012
+               v -4.827
+               h -4.834
+               L 73.255,69.513
+               L 73.255,69.513 z"/>
+        </g>
+    </g>
+  </a>
+</svg>
+
 
 Entrepreneur human-centered design nulla laboris culpa agile food-truck intuitive user centered design in entrepreneur sint. Intuitive commodo proident voluptate convergence officia lorem nostrud culpa food-truck user centered design aliquip irure human-centered design. Cortado enim SpaceTeam officia SpaceTeam pair programming in quis ad. Dolore experiential convergence intuitive elit actionable insight labore ex personas deserunt.
 
